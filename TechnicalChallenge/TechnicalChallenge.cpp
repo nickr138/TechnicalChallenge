@@ -92,7 +92,7 @@ int main()
 	bool led2 = false;
 
 	// Intermediate variable for the input isn't necessary but does help debugging
-	short input;
+	unsigned short input;
 
 	// Enable flag so the program knows that a tick count of 65000 has been reached
 	bool en = false;
